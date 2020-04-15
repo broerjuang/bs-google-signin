@@ -1,4 +1,4 @@
-# `re-google-signin`
+# `bs-google-signin`
 
 🚧 this is binding from
 [`@react-native-community/google-signin`](https://github.com/react-native-community/google-signin).
@@ -13,15 +13,15 @@ The binding is still not complete and doesn't follow semver.
 
 Exposed as `GoogleSignin` module.
 
-`@ruang-guru/re-google-signin` X.y._ means it's compatible with
+`@broerjuang/bs-google-signin` X.y._ means it's compatible with
 `@react-native-community/google-signin` X.y._
 
 ## Installation
 
 ```console
-npm install @ruangguru/re-google-signin
+npm install @broerjuang/bs-google-signin
 # or
-yarn add @ruangguru/re-google-signin
+yarn add @broerjuang/bs-google-signin
 ```
 
 `ruang-guru/re-google-signin` should be added to `bs-dependencies` in your
@@ -34,7 +34,7 @@ yarn add @ruangguru/re-google-signin
     "reason-react",
     "reason-react-native",
     // ...
-+    "re-google-signin"
++    "@broerjuang/bs-google-signin"
   ],
   //...
 }
