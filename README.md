@@ -5,7 +5,7 @@
 The binding is still not complete and doesn't follow semver.
 
 [![Build Status](https://github.com/ruang-guru/re-google-signin/workflows/Build/badge.svg)](https://github.com/ruang-guru/re-google-signin/actions)
-[![Version](https://img.shields.io/npm/v/ruang-guru/re-google-signin.svg)](https://www.npmjs.com/@ruangguru/re-google-signin)
+[![Version](https://img.shields.io/npm/v/broerjuang/bs-google-signin.svg)](https://www.npmjs.com/@broerjuang/bs-google-signin)
 
 [ReasonML](https://reasonml.github.io) /
 [BuckleScript](https://bucklescript.github.io) bindings for
