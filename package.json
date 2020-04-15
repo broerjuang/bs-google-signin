@@ -1,11 +1,11 @@
 {
   "name": "@broerjuang/bs-google-signin",
-  "version": "4.0.0-beta.1",
+  "version": "4.0.0",
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {},
-  "repository": "https://github.com/ruang-guru/re-google-signin.git",
+  "repository": "https://github.com/broerjuang/bs-google-signin.git",
   "license": "MIT",
   "keywords": [
     "reason",
